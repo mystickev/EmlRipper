@@ -13,7 +13,7 @@
 require 'bundler/inline'
 $VERBOSE = nil
 
-gemfile 'ripper.gemfile' do
+gemfile 'Gemfile' do
   source "https://rubygems.org"
   gem 'mail'
   gem 'pathname'
