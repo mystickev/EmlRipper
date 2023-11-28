@@ -12,6 +12,8 @@ EmlRipper is a Ruby script for parsing .eml files, focusing on extracting attach
   
 * Phishing Detection: Flags emails with predefined phishing keywords.
 
+  ![Phish_Alert](/assets/images/favicon/phishing-detect.png)
+
 Also trying out the detection of mostly used phishing keywords inside the email body and flagging them as potential (Indicators Of Phishing)IOPs.
 
 Requires Ruby environment and specific gems. Run ```bundle install``` in the tool directory to install the gems required.
